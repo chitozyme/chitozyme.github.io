@@ -1,5 +1,6 @@
 
 body {
+<<<<<<< Updated upstream
     font-family: Arial, sans-serif;
     background: #f9f9f9;
     color: #333;
@@ -14,4 +15,25 @@ header, footer {
 }
 main {
     padding: 2rem;
+=======
+  font-family: 'Helvetica Neue', sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+header, footer {
+  background: #222;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+}
+nav a {
+  margin: 0 1em;
+  color: #fff;
+  text-decoration: none;
+}
+main {
+  padding: 2em;
+>>>>>>> Stashed changes
 }
